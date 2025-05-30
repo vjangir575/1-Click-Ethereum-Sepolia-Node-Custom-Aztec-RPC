@@ -1,25 +1,4 @@
 
-
-````markdown
-# 🟣 1-Click Ethereum Sepolia Node + Custom Aztec RPC
-
-**Powered by Noderhunterz**
-
-यह repo एक पूरी तरह automated, one-click script प्रदान करता है जिससे आप अपने VPS पर full Ethereum Sepolia node launch कर सकते हैं — वो भी Geth (execution client) और Prysm (consensus client) के साथ। इसमें Aztec नेटवर्क के लिए custom RPC endpoints भी शामिल हैं।
-
----
-
-## 🚀 Features
-
-- ✅ One-click setup for Geth + Prysm (via Docker)
-- 🔐 Secure JWT secret generation
-- ⚙️ Full Sepolia node sync
-- 🌐 Aztec-compatible RPC endpoints
-- 🧰 Auto dependency + Docker installation
-- 👨‍💻 Ideal for developers & node runners
-
----
-
 ## ⚡ Quick Start
 
 ```bash
